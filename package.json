@@ -1,0 +1,7 @@
+{
+  "name": "docker-app",
+  "version": "1.0.0",
+  "main": "routes.js",
+  "author": "Shestakova Elena",
+  "license": "MIT"
+}
